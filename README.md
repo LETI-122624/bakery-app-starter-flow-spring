@@ -1,8 +1,10 @@
 # ⚠️ This starter is not recommended ⚠️
 
 **This starter is not recommended for new Vaadin Flow applications. Instead, visit [start.vaadin.com](https://start.vaadin.com/) to configure and download a Vaadin project that reflects the current best practices.**
-
-
+Los Pollos Hermanos
+Tomás Diogo - 122624
+Tiago Lopes - 122648
+Rodri Rocha - 124106
 # Running the Project in Development Mode
 
 `mvn spring-boot:run` or just `mvn`
