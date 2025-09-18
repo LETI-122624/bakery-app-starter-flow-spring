@@ -1,6 +1,6 @@
 package com.vaadin.starter.bakery.app.security;
 
-//import com.vaadin.starter.bakery.backend.data.entity.User;
+import com.vaadin.starter.bakery.backend.data.entity.User;
 
 @FunctionalInterface
 public interface CurrentUser {
